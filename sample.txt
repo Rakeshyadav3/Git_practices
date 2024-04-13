@@ -1,2 +1,3 @@
-euewrouwyhoutyh
-ju89i9
+print("Hello world");
+print("git command practices");
+print("cosc"); jghjf
