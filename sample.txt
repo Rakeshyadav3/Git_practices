@@ -1,5 +1,5 @@
 print("Hello world");
 print("git command practices");
-print("cosc"); jghjf
+print("cosc"); 
 local change
 local change 1
